@@ -1,0 +1,3 @@
+/home/linnux/C/CPrimerPlus/3.4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/linnux/C/CPrimerPlus/3.4/cmake-build-debug/CMakeFiles/3_4.dir
+/home/linnux/C/CPrimerPlus/3.4/cmake-build-debug/CMakeFiles/edit_cache.dir

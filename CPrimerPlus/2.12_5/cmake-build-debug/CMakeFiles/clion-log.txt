@@ -1,4 +1,4 @@
-/home/linnux/Downloads/clion-2019.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/linnux/CPrimerPlus/2.12_5
+/home/linnux/Downloads/clion-2019.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/linnux/C/CPrimerPlus/2.12_5
 -- The C compiler identification is GNU 8.2.0
 -- Check for working C compiler: /usr/bin/cc
 -- Check for working C compiler: /usr/bin/cc -- works
@@ -8,4 +8,4 @@
 -- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/linnux/CPrimerPlus/2.12_5/cmake-build-debug
+-- Build files have been written to: /home/linnux/C/CPrimerPlus/2.12_5/cmake-build-debug

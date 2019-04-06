@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib2_12_8.a  CMakeFiles/2_12_8.dir/library.cpp.o
+/usr/bin/ranlib lib2_12_8.a
