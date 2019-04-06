@@ -1,5 +1,5 @@
 #include <stdio.h>
-//演示pringf的一些特性
+//演示prinf的一些特性
 int main()
 {
     int ten=10;
