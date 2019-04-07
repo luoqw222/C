@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="4_1" targetName="4_1" />
+      <config projectName="4_4" targetName="4_4" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,8 +11,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05edb2e4-1f22-467a-a1b1-18423894f296" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    <list default="true" id="13b1a997-2dfb-4ba5-aa33-8994b59f0548" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/4.4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.1/cmake-build-debug/CMakeFiles/4_1.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../4.1/cmake-build-debug/CMakeFiles/4_1.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.1/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../4.1/main.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="242">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -91,7 +94,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="4_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="4_1" TARGET_NAME="4_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="4_1" RUN_TARGET_NAME="4_1">
+    <configuration name="4_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="4_4" TARGET_NAME="4_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="4_4" RUN_TARGET_NAME="4_4">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -102,17 +105,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="05edb2e4-1f22-467a-a1b1-18423894f296" name="Default Changelist" comment="" />
-      <created>1554635624866</created>
+      <changelist id="13b1a997-2dfb-4ba5-aa33-8994b59f0548" name="Default Changelist" comment="" />
+      <created>1554641899008</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554635624866</updated>
-      <workItem from="1554635626132" duration="2082000" />
+      <updated>1554641899008</updated>
+      <workItem from="1554641900451" duration="625000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2082000" />
+    <option name="totallyTimeSpent" value="625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1360" height="725" extended-state="6" />
@@ -148,11 +151,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="242">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
         </state>
       </provider>
     </entry>
