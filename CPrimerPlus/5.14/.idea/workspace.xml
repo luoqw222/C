@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="5_10" targetName="5_10" />
+      <config projectName="5_14" targetName="5_14" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47ccb9ad-ee6a-4dbf-9883-1f7c3cf7aff2" name="Default Changelist" comment="" />
+    <list default="true" id="ee3b3039-129d-4366-aa6b-7682488d2e22" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../5.10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5.10/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="352">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -61,12 +63,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -84,7 +85,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="5_10" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="5_10" TARGET_NAME="5_10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="5_10" RUN_TARGET_NAME="5_10">
+    <configuration name="5_14" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="5_14" TARGET_NAME="5_14" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="5_14" RUN_TARGET_NAME="5_14">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -95,17 +96,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="47ccb9ad-ee6a-4dbf-9883-1f7c3cf7aff2" name="Default Changelist" comment="" />
-      <created>1554897027377</created>
+      <changelist id="ee3b3039-129d-4366-aa6b-7682488d2e22" name="Default Changelist" comment="" />
+      <created>1554899311768</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554897027377</updated>
-      <workItem from="1554897028667" duration="808000" />
+      <updated>1554899311768</updated>
+      <workItem from="1554899313141" duration="312000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="808000" />
+    <option name="totallyTimeSpent" value="312000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1360" height="725" extended-state="6" />
@@ -142,8 +143,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="352">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
         </state>
       </provider>
     </entry>
